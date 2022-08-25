@@ -1,0 +1,16 @@
+Comandos:
+git status - verifica se os commits foram realizados
+git clone + link repositório - clona repositório remoto para máquina local
+git push origin master
+git remote -v - verifica pasta
+git remote add origin
+git commit -m "textname"
+git add * - adiciona todos os arquivos do diretório
+git config --global user.email "email"
+git config --global user.name "nickname"
+git config --list - lista configurações
+git init - inicializa repositório local
+
+ls -a = lista arquivos ocultos
+
+ 
